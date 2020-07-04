@@ -1,6 +1,6 @@
 # cost-matrix
 
-   Calculates the total cost (highest possible) to arrive at a cell.  Movement is restricted to Right and Down.   →  ↓
+   Calculates the total cost (highest possible) to arrive at a cell.  Movement is restricted to Right or Down.   →  ↓
      
    example:
 
