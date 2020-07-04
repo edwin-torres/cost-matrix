@@ -8,7 +8,6 @@ using namespace std;
 int maxValue (int x, int y)
 {
     return x>y?x:y;
-
 }
 
 int payingMatrix(int m,int n)
@@ -16,8 +15,6 @@ int payingMatrix(int m,int n)
 
     int matrix[m][n];
     int price[m][n];
-
-
 
     /*
         example:
@@ -44,7 +41,6 @@ int payingMatrix(int m,int n)
     }
 
     /*
-
      Calculates the total cost (Most Expensive) to arrive at a particular cell.
 
       example:
@@ -90,11 +86,9 @@ int payingMatrix(int m,int n)
                         }
                     }
 
-
                 }
 
             }
-
 
         }
     }
