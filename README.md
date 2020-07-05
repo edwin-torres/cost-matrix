@@ -1,6 +1,8 @@
 # cost-matrix
 
-   Calculates the total cost (highest possible) to arrive at a cell.  Movement is restricted to Right or Down.   →  ↓
+   Calculates the total cost (highest possible) to arrive at the position of a matrix element.  Movement is restricted to Right or Down.   →  ↓
+   
+   I have a deployed version of this. [Click Here](https://edwin-torres.github.io/github-page/#/projects/cost)
      
    example:
 
