@@ -1,5 +1,8 @@
 # cost-matrix
 
+   
+   For a React version of this [click here.](https://edwin-torres.github.io/github-page/#/projects/cost)
+   
    Calculates the total cost (highest possible) to arrive at the position of a matrix element.  Movement is restricted to Right or Down.   →  ↓
        
    example:
@@ -23,4 +26,3 @@
    <img src="Cost.png" >
 
  
-   For a React version of this [click here.](https://edwin-torres.github.io/github-page/#/projects/cost)
